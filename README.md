@@ -19,5 +19,19 @@
 
 ![alt text](https://github.com/nogifeet/Path-Finding-Robot/blob/main/Resources/car_1%20(7).jpeg "Image_7")
 
+## File Structure
+**main.py** Contains hc_sr04 distance code, running mg995 servo motor and path_finding logic.
+**motor_control.py** Contains motor instructions for reverse,forward,pivot left and right.
+
 ## GIF Demonstration
+
+### Demo-1
 ![Alt Text](https://github.com/nogifeet/Path-Finding-Robot/blob/main/project-gif-min.gif)
+
+### Demo-2
+![Alt Text](https://github.com/nogifeet/Path-Finding-Robot/blob/main/gif-demo_2.gif)
+
+## Video Link
+
+
+
