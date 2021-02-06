@@ -18,3 +18,6 @@
 ![alt text](https://github.com/nogifeet/Path-Finding-Robot/blob/main/Resources/car_1%20(6).jpeg "Image_6")
 
 ![alt text](https://github.com/nogifeet/Path-Finding-Robot/blob/main/Resources/car_1%20(7).jpeg "Image_7")
+
+## GIF Demonstration
+![Alt Text](https://github.com/nogifeet/Path-Finding-Robot/blob/main/project-gif-min.gif)
