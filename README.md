@@ -1,5 +1,7 @@
 # Path-Finding-Robot
 
+This project makes use of HC-SR04 Distance Sensor, Tower Pro MG995 180' Servo motor, Raspberry Pi 4, L289N Motor Controller, 4 X 300 RPM Gear Motors and 12V 4000 mah Lithium Ion Battery. Using all these components together and writing clean logic to allow the car to find free path for movement in any scenario. 
+
 ## Circuit Diagram of the Autonomous Vehicle
 ![alt text](https://github.com/nogifeet/Path-Finding-Robot/blob/main/Resources/circuit_diagram.PNG "Circuit Diagram")
 
