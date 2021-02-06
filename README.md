@@ -34,6 +34,7 @@ This project makes use of HC-SR04 Distance Sensor, Tower Pro MG995 180' Servo mo
 ![Alt Text](https://github.com/nogifeet/Path-Finding-Robot/blob/main/gif-demo_2.gif)
 
 ## Video Link
+https://www.youtube.com/watch?v=k6fO32XYYVo&feature=youtu.be
 
 
 
